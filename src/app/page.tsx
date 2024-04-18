@@ -15,12 +15,6 @@ export default function Home() {
           CLONE&nbsp; Instantly deploy your Next.js site to a shareable URL with
           Vercel. Instantly deploy your Next.js site to a shareable URL with
           Vercel. Get started by editing IMDB CLONE&nbsp; Instantly deploy your
-          Next.js site to a shareable URL with Vercel. Instantly deploy your
-          Next.js site to a shareable URL with Vercel. Get started by editing
-          IMDB CLONE&nbsp; Instantly deploy your Next.js site to a shareable URL
-          with Vercel. Instantly deploy your Next.js site to a shareable URL
-          with Vercel.Get started by editing IMDB CLONE&nbsp; Instantly deploy
-          your Next.js site to a shareable URL with Vercel. Instantly deploy
           your Next.js site to a shareable URL with Vercel.
           <code className="font-mono font-bold">src/app/page.tsx</code>
           <br />
